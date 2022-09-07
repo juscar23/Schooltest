@@ -1,0 +1,14 @@
+C:\Users\JK\source\repos\Shapes\Shapes\bin\Debug\Shapes.exe.config
+C:\Users\JK\source\repos\Shapes\Shapes\bin\Debug\Shapes.exe
+C:\Users\JK\source\repos\Shapes\Shapes\bin\Debug\Shapes.pdb
+C:\Users\JK\source\repos\Shapes\Shapes\obj\Debug\Shapes.csproj.AssemblyReference.cache
+C:\Users\JK\source\repos\Shapes\Shapes\obj\Debug\Shapes.csproj.SuggestedBindingRedirects.cache
+C:\Users\JK\source\repos\Shapes\Shapes\obj\Debug\Shapes.Form1.resources
+C:\Users\JK\source\repos\Shapes\Shapes\obj\Debug\Shapes.RectangleMenu.resources
+C:\Users\JK\source\repos\Shapes\Shapes\obj\Debug\Shapes.Properties.Resources.resources
+C:\Users\JK\source\repos\Shapes\Shapes\obj\Debug\Shapes.SquareMenu.resources
+C:\Users\JK\source\repos\Shapes\Shapes\obj\Debug\Shapes.csproj.GenerateResource.cache
+C:\Users\JK\source\repos\Shapes\Shapes\obj\Debug\Shapes.csproj.CoreCompileInputs.cache
+C:\Users\JK\source\repos\Shapes\Shapes\obj\Debug\Shapes.exe
+C:\Users\JK\source\repos\Shapes\Shapes\obj\Debug\Shapes.pdb
+C:\Users\JK\source\repos\Shapes\Shapes\obj\Debug\Shapes.CircleMenu.resources
